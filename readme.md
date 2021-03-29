@@ -4,7 +4,8 @@ It's another SafeCoin, but faster!
 
 ## Contract
 
-View it on bscscan (or here @ SafeWhatever.sol)
+View it [on bscscan](https://bscscan.com/address/0xed0c24b4da24f750d0e1f67f043d8498143e1b74#code)
+(or here @ [SafeWhatever.sol](https://github.com/SafeWhatever/safewhatever.xyz/blob/main/SafeWhatever.sol))
 
 ## Website
 
